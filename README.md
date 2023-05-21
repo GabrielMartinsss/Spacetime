@@ -5,7 +5,7 @@
 
 <h2 align='center'>💻 Projeto</h2>
 <p align='center'>
-  Aplicação de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos e fotos de acontecimentos marcantes da sua vida.
+  Aplicação Fullstack de recordação de memórias, onde o usuário poderá adicionar à uma timeline textos e fotos de acontecimentos marcantes da sua vida.
 </p>
 
 
